@@ -1,7 +1,7 @@
 {
-  "name": "ريدكون للتعمير - الحضور",
-  "short_name": "ريدكون",
-  "description": "نظام الحضور والانصراف بالتعرف على الوجه - ريدكون للتعمير",
+  "name": "Redcon Attendance",
+  "short_name": "Redcon",
+  "description": "Face recognition attendance system for Redcon",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#0d1117",
